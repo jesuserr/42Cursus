@@ -34,3 +34,6 @@
 [submodule "05_42Cursus_inception"]
 	path = 05_42Cursus_inception
 	url = https://github.com/jesuserr/42Cursus_inception.git
+[submodule "06_42Cursus_ft_transcendence"]
+	path = 06_42Cursus_ft_transcendence
+	url = https://github.com/jesuserr/42Cursus_ft_transcendence.git
