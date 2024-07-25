@@ -1,0 +1,36 @@
+[submodule "00_42Cursus_libft"]
+	path = 00_42Cursus_libft
+	url = https://github.com/jesuserr/42Cursus_libft.git
+[submodule "01_42Cursus_ft_printf"]
+	path = 01_42Cursus_ft_printf
+	url = https://github.com/jesuserr/42Cursus_ft_printf.git
+[submodule "01_42Cursus_get_next_line"]
+	path = 01_42Cursus_get_next_line
+	url = https://github.com/jesuserr/42Cursus_get_next_line.git
+[submodule "02_42Cursus_minitalk"]
+	path = 02_42Cursus_minitalk
+	url = https://github.com/jesuserr/42Cursus_minitalk.git
+[submodule "02_42Cursus_push_swap"]
+	path = 02_42Cursus_push_swap
+	url = https://github.com/jesuserr/42Cursus_push_swap.git
+[submodule "02_42Cursus_fdf"]
+	path = 02_42Cursus_fdf
+	url = https://github.com/jesuserr/42Cursus_fdf.git
+[submodule "03_42Cursus_minishell"]
+	path = 03_42Cursus_minishell
+	url = https://github.com/jesuserr/42Cursus_minishell.git
+[submodule "03_42Cursus_philosophers"]
+	path = 03_42Cursus_philosophers
+	url = https://github.com/jesuserr/42Cursus_philosophers.git
+[submodule "04_42Cursus_cub3D"]
+	path = 04_42Cursus_cub3D
+	url = https://github.com/jesuserr/42Cursus_cub3D.git
+[submodule "04-05_42Cursus_cpp_modules"]
+	path = 04-05_42Cursus_cpp_modules
+	url = https://github.com/jesuserr/42Cursus_cpp_modules.git
+[submodule "05_42Cursus_ft_irc"]
+	path = 05_42Cursus_ft_irc
+	url = https://github.com/jesuserr/42Cursus_ft_irc.git
+[submodule "05_42Cursus_inception"]
+	path = 05_42Cursus_inception
+	url = https://github.com/jesuserr/42Cursus_inception.git
