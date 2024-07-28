@@ -1,8 +1,6 @@
 # 42Cursus
-Projects developed during Common Core (Jan 10, 2023 - Jul 22, 2024)
 
-## Description of projects
-
+## Scope of each project developed during Common Core (Jan 10, 2023 - Jul 22, 2024)
 
 - [Libft](https://github.com/jesuserr/42cursus_libft) : This project involves creating a custom C library, libft, which includes a variety of essential functions commonly used in C programming. It covers re-implementations of standard libc functions and additional utility functions, providing a foundational toolset for future C projects. The library is intended to be expanded and used throughout various assignments, ensuring a deeper understanding and efficient utilization of fundamental C functions.
 
@@ -26,13 +24,15 @@ Projects developed during Common Core (Jan 10, 2023 - Jul 22, 2024)
 
 - [cub3d](https://github.com/jesuserr/42cursus_cub3d) : This project involves creating a dynamic 3D maze game using the MiniLibX library inspired by Wolfenstein 3D. It focuses on implementing ray-casting to render realistic graphics from a first-person perspective and includes handling textures, colors, and user interactions. The objective is to enhance skills in C programming, algorithm implementation, and graphics development.
 
+- [CPP Modules 00 to 09](https://github.com/jesuserr/42cursus_cpp_modules) : This project involves a comprehensive C++ curriculum covering key concepts through a series of modules. The modules include namespaces, classes, memory allocation, polymorphism, inheritance, templates, and the Standard Template Library (STL). The goal is to build a strong foundation in C++ programming and advanced software engineering practices.
+
 - [ft_irc](https://github.com/jesuserr/42cursus_ft_irc) : This project entails creating an IRC server using C++ 98 that supports multiple clients, allowing for real-time messaging, channel creation, and operator commands. The server will handle authentication, nicknames, private messages, and several essential IRC commands. The goal is to deepen understanding of network protocols and develop a robust, non-blocking, multi-client server.
 
 - [Inception](https://github.com/jesuserr/42cursus_inception) : The "Inception" project focuses on system administration using Docker to virtualize multiple services, including NGINX, WordPress, and MariaDB, within a personal virtual machine. It involves setting up Docker containers, ensuring secure configurations, and managing inter-container networking. This project aims to enhance understanding of Docker, containerization, and basic system administration tasks.
 
 - [ft_transcendence](https://github.com/jesuserr/42cursus_ft_transcendence) : This project involves creating a functional website for a real-time multiplayer Pong game. The scope includes implementing user interfaces, online gameplay, and security measures. Additional modules will enhance features like AI opponents, blockchain score storage, and cybersecurity measures​.
 
-## List of projects
+## List of projects with grades
 ![List of projects](https://github.com/jesuserr/42Cursus/blob/main/resources/list_of_projects.png)
 
 ## Holy graph
